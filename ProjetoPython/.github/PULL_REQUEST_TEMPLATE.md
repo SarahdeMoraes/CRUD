@@ -1,5 +1,6 @@
 ## Descrição
 Como foi feita a correção do arquivo python
+@Rraika.sousa
 
 ## Review
 * Revisar se o código contém comentário 
