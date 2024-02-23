@@ -7,7 +7,7 @@
 
 <h3 align="left">Sobre o projeto:</h3>
 <p align="left">É um código feito em pyhton para conseguir adicionar, atualizar, ler, e deletar dados no banco de dados.
-Seria recomendado acessar ele pelo Visual Studio Code (onden foi desenvolvido) e conecta-lo com o seu mongoDB com o link do seu database
+Seria recomendado acessar ele pelo Visual Studio Code (onde foi desenvolvido) e conecta-lo com o seu mongoDB com o link do seu database
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
