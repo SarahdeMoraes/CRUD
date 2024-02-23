@@ -3,7 +3,7 @@
 
 - 🔭 Eu estou trabalhando com o *CRUD MONGO*
 
-- 👯 Minha colaboradora deria a *Raika*
+- 👯 Minha colaboradora seria a *Raika*
 
 <h3 align="left">Sobre o projeto:</h3>
 <p align="left">É um código feito em pyhton para conseguir adicionar, atualizar, ler, e deletar dados no banco de dados.
