@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou a Sarah</h1>
 <h3 align="center">Projeto CRUD MongoDB</h3>
 
-- 🔭 Eu estou trabaklhando com o *CRUD MONGO*
+- 🔭 Eu estou trabalhando com o *CRUD MONGO*
 
 - 👯 Minha colaboradora deria a *Raika*
 
