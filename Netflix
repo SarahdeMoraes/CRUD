@@ -1,0 +1,29 @@
+import pandas as pd
+import matplotlib.pyplot as pl
+
+netflix = pd.read_csv('./netflix_titles.csv')
+display(netflix)
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import string
+from collections import Counter
+import numpy as np
+
+categs = []
+df_netflix = pd.read_csv ("netflix_titles.csv")
+for i in range(0, len(df_netflix)):
+    categs.append (((df_netflix['listed_in'][i]).split(","))[0])
+
+print (categs)
+print (Counter(categs).keys())
+print (Counter(categs).keys())
+print (Counter(categs).values())
+
+# https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+# https://stackoverflow.com/questions/19852215/how-to-add-a-legend-to-matplotlib-pie-chart
+# https://www.tutorialspoint.com/how-to-avoid-overlapping-of-labels-and-autopct-in-a-matplotlib-pie-chart
+patches, texts = plt.pie(Counter(categs).values())
+plt.legend(patches, Counter(categs).keys(), loc='center left', bbox_to_anchor=(-0.35, .5), fontsize=8)
+plt.axis('equal')
+plt.show()
