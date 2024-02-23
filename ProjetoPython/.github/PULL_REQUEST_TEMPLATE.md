@@ -1,6 +1,5 @@
 ## Descrição
-Como foi feita a correção do arquivo python
-@Rraika.sousa
+Arquivo com a leitura dos dados do arquivo que contem os titulos, categorias e etc da Netflix
 
 ## Review
 * Revisar se o código contém comentário 

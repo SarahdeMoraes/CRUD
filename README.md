@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on *Raika*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Como é um código de feito em pyhton para conseguir adicionar, atualizar, ler, e deletar no banco de dados.
+Logo seria o melhor acessar ele pelo Visual Studio Code e conecta-lo com o seu mongo com o link do seu data base
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
